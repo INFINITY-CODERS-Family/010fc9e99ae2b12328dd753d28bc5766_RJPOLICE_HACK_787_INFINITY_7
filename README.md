@@ -1,6 +1,6 @@
 # Rajasthan POLICE hackathon
 
-# Financial Fraud Detection App  
+## Financial Fraud Detection App  
 ## Overview  
 This ***React.js*** application utilizes a robust tech stack for developing a financial fraud detection system. ***ReactApexCharts*** and ***Supabase*** handle data visualization and management, ***Kaagle*** datasets provide sample financial data, and ***Material-UI (MUI)*** ensures an elegant and responsive user interface. The core functionality focuses on detecting financial frauds using several **machine learning algorithms**, including ***Logistic Regression, Disjoint Tree, Random Clusters, and K-beans Clustering.*** 
 ## Tech Stack  
