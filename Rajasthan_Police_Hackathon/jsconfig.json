@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*", "config", "babel.config.js"],
+  "exclude": ["node_modules"]
+}
