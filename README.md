@@ -14,20 +14,16 @@ This ***React.js*** application utilizes a robust tech stack for developing a fi
 	- **Data Handling**:   
 		- **Kaagle Datasets**: Utilized for providing realistic sample financial data for testing and demonstration.  
 		- **Machine Learning Algorithms**:   
-			- Logistic Regression: A regression algorithm used for binary classification tasks.  
-			- Disjoint Tree: An ensemble learning algorithm that builds a disjoint set of decision trees.   
-			- Random Clusters: A clustering algorithm that assigns data points to random clusters.   
-			- K-beans Clustering: A popular clustering algorithm for grouping data points into clusters. 
+			- Logistic Regression: A regression algorithm used for binary classification tasks. 
+			- Random Forests: A clustering algorithm that assigns data points to random clusters.
 ## Features 
 
 - **Data Visualization**: Utilizes ReactApexCharts to provide insightful visualizations of financial data.
 - **Data Management**: Integrates Supabase for efficient data handling and database management.
 - **Sample Data**: Utilizes Kaagle datasets for sample financial data to test and showcase the application. 
 - **Machine Learning Algorithms**:   
-  - Logistic Regression   
-  - Disjoint Tree   
-  - Random Clusters   
-  - K-beans Clustering  
+  - Logistic Regression
+  - Random Forests
 ## Installation  
 
 1. Clone the repository:  
